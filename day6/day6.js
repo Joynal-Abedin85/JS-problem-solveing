@@ -1,7 +1,12 @@
-let w = 2
+// this problem is for devided by 2 number and after devided each number should be posetive 
 
-if(w % 2 == 0 && w > 2 ){
-    console.log("yes")
-} else {
-    console.log("no")
-}
+// let w = 2
+
+// if(w % 2 == 0 && w > 2 ){
+//     console.log("yes")
+// } else {
+//     console.log("no")
+// }
+
+
+
